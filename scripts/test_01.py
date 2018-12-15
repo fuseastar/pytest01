@@ -43,5 +43,5 @@ if __name__ == '__main__':
     pytest.main("-s test_07_执行顺序.py")
 
     def test09():
-        print("测试")
+        print("测试自动执行")
 
