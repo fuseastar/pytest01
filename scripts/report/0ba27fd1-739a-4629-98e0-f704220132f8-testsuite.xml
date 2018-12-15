@@ -1,0 +1,66 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1544843226694" stop="1544843226720">
+  <name>test_01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1544843226694" status="passed" stop="1544843226709">
+      <name>test_P.test04</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="26396-MainThread"/>
+        <label name="host" value="LAPTOP-H8T2NMAH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544843226709" status="passed" stop="1544843226711">
+      <name>test_P.test08</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="26396-MainThread"/>
+        <label name="host" value="LAPTOP-H8T2NMAH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544843226712" status="passed" stop="1544843226714">
+      <name>test_P.test05</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="26396-MainThread"/>
+        <label name="host" value="LAPTOP-H8T2NMAH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544843226715" status="passed" stop="1544843226717">
+      <name>test_P.test06</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="26396-MainThread"/>
+        <label name="host" value="LAPTOP-H8T2NMAH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1544843226717" status="passed" stop="1544843226720">
+      <name>test_P.test07</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="26396-MainThread"/>
+        <label name="host" value="LAPTOP-H8T2NMAH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
